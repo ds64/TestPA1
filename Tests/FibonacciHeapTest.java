@@ -30,7 +30,7 @@ public class FibonacciHeapTest {
     }
 
     @Test
-    public void testFibonacc21() throws Exception {
+    public void testFibonacci2() throws Exception {
         fHeap.enqueue(new Double(5.0), 1);
         fHeap.enqueue(new Double(7.0), 1);
         fHeap.enqueue(new Double(25.0), 1);
